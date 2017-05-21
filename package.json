@@ -1,7 +1,7 @@
 {
   "name": "incgame",
   "scripts": {
-    "docs": "jsdoc ./src -d ./docs"
+    "docs": "jsdoc src -d docs"
   },
   "devDependencies": {
     "jsdoc": "^3.4.3"
